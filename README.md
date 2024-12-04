@@ -38,9 +38,4 @@ Um pequeno vídeo de ficção científica que busca conscientizar sobre o desenv
 
 ## Assista ao Vídeo
 
-<video controls width="800">
-    <source src="./Harmonia em Conflito.mp4" type="video/mp4">
-    Seu navegador não suporta o player de vídeo. [Clique aqui para baixar o vídeo.](./Harmonia em Conflito.mp4)
-</video>
-
 
