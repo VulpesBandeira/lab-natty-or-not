@@ -23,29 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora o potencial das IAs Generativas para criar uma narrativa imersiva em vídeo, abordando temas como o desenvolvimento de inteligência artificial consciente e suas implicações éticas e sociais. O foco está em apresentar o equilíbrio entre storytelling e tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+CHATGPT: Utilizei essa ferramenta para o desenvolvimento do roteiro, organização dos episódios e caracterização das personagens.
+LTX: Utilizei a plataforma LTX studio versão gratuita, uma das melhores ferramentas para estudantes de tecnologia, segue abaixo o link de acesso; https://app.ltx.studio/
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Com o auxílio do GPT foi desenolvido todo o roteiro e o LTX foi responsavel pela personificação das personagens e produção do vídeo.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um pequeno vídeo de ficção científica que busca conscientizar sobre o desenvolvimento das Ias e a responsabilidade dos desenolvedores no que se refere a ética e sociedade.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
